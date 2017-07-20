@@ -1,0 +1,57 @@
+#jumbotron-1 {
+  background-color: #2b292a !important;
+  color: white;
+  text-align: center;
+}
+
+#jumbotron-2 {
+  background-color: #858080;
+}
+
+.jumbotron-main {
+  margin: 0;
+  height: 500px;
+}
+
+.align-vertical {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  align-content: center;
+}
+
+#jumbotron-2-p {
+  /* color: #rgba(#d5ced6, 0); */
+  color: #C0C0C0;
+  margin-left: 0;
+}
+
+#jumbotron-2-image {
+  border-radius: 5%;
+}
+
+#jumbotron-3 {
+  background-color: #b9bbb6;
+}
+
+#jumbotron-4 {
+  height: 550px;
+}
+
+.pricing-h4, .pricing-h6 {
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  background: black;
+  color: white;
+  margin-bottom: 0;
+  font-size: 75%;
+  font-family: 'Slabo 27px', serif;
+}
+#footer-text {
+  top: 50%;
+  text-align: center;
+}
